@@ -11,9 +11,7 @@
 
 2)Download detector.py in your computer directory, and copy the path of directory.
 
-3) Open detector.py and replace only “/home/rahul/Desktop/Final” which are at four places with
-     copied directory path.
-     So the new path will become “your path/pic” at all four place.
+
 
 3)Download “rps.h5” which is neural network trained model in the same directory.
 4)Download "haarcascade_frontalface_default.xml"file in the same directory.
